@@ -1,0 +1,15 @@
+Command Mode (press ESC to enable)
+
+H: show keyboard shortcuts
+
+shift + enter: run selected cell
+
+A: insert cell below
+B: insert cell above
+X: cut selected cell
+C: copy selected cell
+V: paste cells below
+DD: delete selected cell
+Z: undo cell deletion
+
+Shift + M: merge current cell and cell below
