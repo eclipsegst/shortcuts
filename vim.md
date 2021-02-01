@@ -45,7 +45,9 @@ shift + a
 ### Copy & Paste
 
 `yy` or `Y` to copy the current line
+
 `dd` to delete or cut a line
+
 `P` to paste before the current line and `p` to paste after current line.
 
 ## Reference
